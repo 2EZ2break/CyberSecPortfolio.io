@@ -17,11 +17,11 @@ In this project I created a SIEM system in Microsoft Azure by leveraging Microso
 
 # Cyber Content I Love
 
-Darknet Diaries | Mad Hat | Sam Bent | Pirate Software 
+<p>Darknet Diaries | Mad Hat | Sam Bent | Pirate Software<p/> 
 
 # Hobbies
 
-Video Games | Crypto Currency | College Football | Formula 1 | Youtube | Code Wars 
+<p>Video Games | Crypto Currency | College Football | Formula 1 | Youtube | Code Wars<p/>
 
 
 <!-- 
