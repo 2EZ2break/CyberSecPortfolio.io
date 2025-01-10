@@ -6,13 +6,13 @@ You can find my Linkedin below.
 
 [LinkedIn](https://www.linkedin.com/in/trent-cubine-268539110/)
 
-There should be whitespace between paragraphs.
+Below are some of the projects I've completed. Some are ongoing, others I've had to end due to cost.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Creating a SIEM in Azure using Microsoft Sentinel 
 
-# Header 1
+In this project I created a SIEM system in Microsoft Azure by leveraging Microsoft Sentinel. I launched a VM and created a log analytics workspace where I enabled Microsoft Sentinel. I then connected the VM as a data source and created analytic rules to flag specific instances from the VMs logs. 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+[You can see my documentation of this project here]()
 
 ## Header 2
 
