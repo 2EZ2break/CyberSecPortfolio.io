@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Social Media Accounts and Platform Links 
+# Social Media Accounts and Platform Links 
 
 [LinkedIn](https://www.linkedin.com/in/trent-cubine-268539110/)  [Try Hack Me](https://tryhackme.com/r/p/2EZ)
 
@@ -14,6 +14,14 @@ In this project I created a SIEM system in Microsoft Azure by leveraging Microso
 
 [You can see my documentation of this project here](Building my own SIEM v3.pdf)
 
+
+# Cyber Content I Love
+
+Darknet Diaries | Mad Hat | Sam Bent | Pirate Software | 
+
+# Hobbies
+
+Video Games | Crypto Currency | College Football | Formula 1 | Youtube | Code Wars | 
 <!-- 
 ## Header 2
 
