@@ -32,7 +32,7 @@ In this project I created a SIEM system in Microsoft Azure by leveraging Microso
 
 # Cyber Content I Love
 
-Darknet Diaries - Mad Hat - Sam Bent - Pirate Software
+Darknet Diaries - Mad Hat - Sam Bent - Pirate Software - Mental Outlaw - DEFCONconference
 
 <br /> 
 <br /> 
