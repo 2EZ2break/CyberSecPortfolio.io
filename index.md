@@ -14,6 +14,7 @@ In this project I created a SIEM system in Microsoft Azure by leveraging Microso
 
 [You can see my documentation of this project here]()
 
+<!-- 
 ## Header 2
 
 > This is a blockquote following a header.
@@ -121,3 +122,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
