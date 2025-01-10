@@ -8,7 +8,7 @@ You can find my Linkedin below.
 
 Below are some of the projects I've completed. Some are ongoing, others I've had to end due to cost.
 
-# Creating a SIEM in Azure using Microsoft Sentinel 
+# Creating a SIEM in Microsoft Azure leveraging Microsoft Sentinel 
 
 In this project I created a SIEM system in Microsoft Azure by leveraging Microsoft Sentinel. I launched a VM and created a log analytics workspace where I enabled Microsoft Sentinel. I then connected the VM as a data source and created analytic rules to flag specific instances from the VMs logs. 
 
