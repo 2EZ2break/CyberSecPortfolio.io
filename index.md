@@ -2,13 +2,13 @@
 layout: default
 ---
 
-You can find my Linkedin below.
+## Social Media Accounts and Platform Links 
 
-[LinkedIn](https://www.linkedin.com/in/trent-cubine-268539110/)
+[LinkedIn](https://www.linkedin.com/in/trent-cubine-268539110/) [Try Hack Me](https://tryhackme.com/r/p/2EZ)
 
-Below are some of the projects I've completed. Some are ongoing, others I've had to end due to cost.
+# Projects
 
-# Creating a SIEM in Microsoft Azure leveraging Microsoft Sentinel 
+## Creating a SIEM in Microsoft Azure leveraging Microsoft Sentinel 
 
 In this project I created a SIEM system in Microsoft Azure by leveraging Microsoft Sentinel. I launched a VM and created a log analytics workspace where I enabled Microsoft Sentinel. I then connected the VM as a data source and created analytic rules to flag specific instances from the VMs logs. 
 
