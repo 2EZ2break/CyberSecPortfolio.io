@@ -4,7 +4,7 @@ layout: default
 
 You can find my Linkedin below.
 
-[LinkedIn](https://www.linkedin.com/in/trent-cubine-268539110/).
+[LinkedIn](https://www.linkedin.com/in/trent-cubine-268539110/)
 
 There should be whitespace between paragraphs.
 
