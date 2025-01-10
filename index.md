@@ -6,7 +6,11 @@ layout: default
 
 [LinkedIn](https://www.linkedin.com/in/trent-cubine-268539110/)  [Try Hack Me](https://tryhackme.com/r/p/2EZ)
 
+<br />
+
 # Projects
+
+<br />
 
 ### Creating a SIEM in Microsoft Azure leveraging Microsoft Sentinel 
 
@@ -14,14 +18,24 @@ In this project I created a SIEM system in Microsoft Azure by leveraging Microso
 
 [You can see my documentation of this project here](Building my own SIEM v3.pdf)
 
+
+<br /> 
+<br /> 
+
 # Certifications 
 
 1. Google Cybersecurity Specialization - 2025
 2. Comptia SEC+ - In Progress
 
+<br />
+<br /> 
+
 # Cyber Content I Love
 
 Darknet Diaries - Mad Hat - Sam Bent - Pirate Software
+
+<br /> 
+<br /> 
 
 # Hobbies
 
