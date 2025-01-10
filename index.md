@@ -2,9 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+You can find my Linkedin below.
 
-[Link to another page](./another-page.html).
+[LinkedIn](https://www.linkedin.com/in/trent-cubine-268539110/).
 
 There should be whitespace between paragraphs.
 
