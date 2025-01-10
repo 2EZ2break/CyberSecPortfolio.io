@@ -14,6 +14,10 @@ In this project I created a SIEM system in Microsoft Azure by leveraging Microso
 
 [You can see my documentation of this project here](Building my own SIEM v3.pdf)
 
+# Certifications 
+
+1. Google Cybersecurity Specialization - 2025
+2. Comptia SEC+ - In Progress
 
 # Cyber Content I Love
 
