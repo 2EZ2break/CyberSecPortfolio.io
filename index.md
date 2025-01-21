@@ -4,7 +4,7 @@ layout: default
 
 # Social Media Accounts and Platform Links 
 
-[LinkedIn](https://www.linkedin.com/in/trent-cubine-268539110/)  [Try Hack Me](https://tryhackme.com/r/p/2EZ)
+[LinkedIn](https://www.linkedin.com/in/trent-cubine-268539110/)  [Try Hack Me](https://tryhackme.com/p/2EZ)
 
 <br />
 
