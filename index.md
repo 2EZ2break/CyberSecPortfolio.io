@@ -35,7 +35,7 @@ I maintain a repository of Python scripts focused on Cybersecurity and penetrati
 [Click Here to visit the Simple Password Brute Force.](https://github.com/2EZ2break/python-Projects/blob/main/SimplePasswordBruteForce.py)
 <br /> 
 <br /> 
-
+<br />
 # Certifications 
 
 1. Google Cybersecurity Specialization - 2025
