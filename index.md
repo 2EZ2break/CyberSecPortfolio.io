@@ -24,10 +24,11 @@ In this project I created a SIEM system in Microsoft Azure by leveraging Microso
 
 ### Various Python Projects
 
-I maintain a repository of Python scripts focused on Cybersecurity and penetration testing. One of the scripts in this repository scans for Wi-Fi networks within range of a Windows device, extracting detailed information such as signal strength, encryption protocols, and authentication methods.
+I maintain a repository of Python scripts focused on Cybersecurity and penetration testing. One of the scripts in this repository scans for Wi-Fi networks within range of a Windows device, extracting detailed information such as signal strength, encryption protocols, and authentication methods. The ReadMe.txt file in the repository will give you more information about files that I have not mentioned here.
 
 [Click here to visit the Repository.](https://github.com/2EZ2break/python-Projects)
 <br />
+<br /> 
 [Click Here to visit the Wifi Sniffer.](https://github.com/2EZ2break/python-Projects/blob/main/wifiSniffing.py)
 
 <br /> 
