@@ -37,7 +37,7 @@ I maintain a repository of Python scripts focused on Cybersecurity and penetrati
 # Certifications 
 
 1. Google Cybersecurity Specialization - 2025
-2. Comptia SEC+ - In Progress
+2. Comptia SEC+ - In Progress testing March 11th, 2025
 
 <br />
 <br /> 
