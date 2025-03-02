@@ -37,7 +37,7 @@ In this project I created a SIEM system in Microsoft Azure by leveraging Microso
 
 ### CISCO Packet Tracer Projects  
 
-I Keep a repository of Cisco Packet tracer Projects I've compleated. Each Project resides in it's own folder with its PKT file and a PDF with the project's goals and background work.
+I keep a repository of Cisco Packet Tracer Projects I've compleated. Each Project resides in it's own folder with its PKT file and a PDF with the project's goals and background work.
 
 [You can see these projects here.](https://github.com/2EZ2break/Packet-Tracer-Projects)
 
