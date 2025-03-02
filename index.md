@@ -35,6 +35,16 @@ In this project I created a SIEM system in Microsoft Azure by leveraging Microso
 <br /> 
 <br /> 
 
+### CISCO Packet Tracer Projects  
+
+I Keep a repository of Cisco Packet tracer Projects I've compleated. Each Project resides in it's own folder with its PKT file and a PDF with the project's goals and background work.
+
+[You can see these projects here.](https://github.com/2EZ2break/Packet-Tracer-Projects)
+
+
+<br /> 
+<br /> 
+
 ### Various Python Projects
 
 I maintain a repository of Python scripts focused on Cybersecurity and penetration testing. One of the scripts in this repository scans for Wi-Fi networks within range of a Windows device, extracting detailed information such as signal strength, encryption protocols, and authentication methods. SimplePasswordBruteForce.py demonstrates a basic brute-force attack algorithm designed to break a password by systematically guessing all possible combinations of characters. It serves as an example of how brute force attacks function in cybersecurity. PortScanner.py is a simple script that scans a IP address's ports to see which are opened and closed. The ReadMe.txt file in the repository will give you more information about files that I have not mentioned here.
