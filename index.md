@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](0_3.png)
 
 
 # Social Media Accounts and Platform Links 
