@@ -59,6 +59,10 @@ I keep a repository of Cisco Packet Tracer Projects I've compleated. Each Projec
 <br /> 
 <br /> 
 
+![Octocat](download (6).png)
+
+<br /> 
+
 ### Various Python Projects
 
 I maintain a repository of Python scripts focused on cybersecurity and penetration testing. One notable script, wifiSniffer.py, scans Wi-Fi networks within range of a Windows device, extracting key details like signal strength, encryption protocols, and authentication methods. Other scripts like SimplePasswordBruteForce.py demonstrate basic brute-force attack algorithms, while PortScanner.py scans IP address ports to identify open and closed ones. For more information on additional scripts, check the ReadMe.txt file in the repository.
