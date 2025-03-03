@@ -91,7 +91,7 @@ Darknet Diaries - Mad Hat - Sam Bent - Pirate Software - Mental Outlaw - DEFCONc
 
 # Hobbies
 
-Video Games - Crypto Currency - College Football - Formula 1 - Youtube - Code Wars
+Video Games - Crypto Currency - College Football - Formula 1 - Youtube - Twitch
 
 <br /> 
 
