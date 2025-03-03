@@ -39,6 +39,10 @@ Explore my work and feel free to reach out to discuss how my expertise can help 
 
 <br />
 
+![Octocat](https://github.com/2EZ2break/CyberSecPortfolio.io/blob/e2e8348d947f2fe71ddaf308d2e5cd6e3de54399/Azure%20Image.png)
+
+<br /> 
+
 ### Creating a SIEM in Microsoft Azure leveraging Microsoft Sentinel 
 
 In this project I created a SIEM system in Microsoft Azure by leveraging Microsoft Sentinel. I launched a VM and created a log analytics workspace where I enabled Microsoft Sentinel. I then connected the VM as a data source and created analytic rules to flag specific instances from the VMs logs. 
@@ -47,6 +51,10 @@ In this project I created a SIEM system in Microsoft Azure by leveraging Microso
 
 
 <br /> 
+<br /> 
+
+![Octocat](https://github.com/2EZ2break/CyberSecPortfolio.io/blob/e2e8348d947f2fe71ddaf308d2e5cd6e3de54399/Cisco%20packet%20Tracer.jpg)
+
 <br /> 
 
 ### CISCO Packet Tracer Projects  
