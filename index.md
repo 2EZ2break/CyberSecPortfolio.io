@@ -27,6 +27,14 @@ Explore my work and feel free to reach out to discuss how my expertise can help 
 
 <br />
 
+# Certifications 
+
+1. Google Cybersecurity Specialization - 2025
+2. Comptia SEC+ - In Progress testing March 11th, 2025
+
+<br /> 
+
+
 # Projects
 
 <br />
@@ -60,13 +68,7 @@ I maintain a repository of Python scripts focused on cybersecurity and penetrati
 <br /> 
 <br /> 
 <br />
-# Certifications 
 
-1. Google Cybersecurity Specialization - 2025
-2. Comptia SEC+ - In Progress testing March 11th, 2025
-
-<br />
-<br /> 
 
 # Cyber Content I Love
 
