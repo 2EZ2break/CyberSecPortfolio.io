@@ -2,18 +2,7 @@
 layout: default
 ---
 
-
-![Branching](0_3.png)
-
-
-# Social Media Accounts and Platform Links 
-
-[LinkedIn](https://www.linkedin.com/in/trent-cubine-268539110/)  [Try Hack Me](https://tryhackme.com/p/2EZ)
-
-<br />
-
-
-# About Me 
+# About ME 
 
 Welcome to my cyber security portfolio website! I am Trent Cubine, a driven professional with a strong foundation in both web development and cyber security. With a background in web technologies, network security, and threat analysis, I specialize in building secure systems and conducting detailed security analyses.
 
@@ -24,6 +13,15 @@ I am continuously expanding my skills in cyber security through my academic back
 In my portfolio, you'll find several projects that showcase my skills in security, such as deploying my own SIEM system using Microsoft Azure and developing a Python-based Wi-Fi sniffer tool for network security analysis.
 
 Explore my work and feel free to reach out to discuss how my expertise can help enhance your organization’s security posture.
+
+<br /> 
+![Branching](0_3.png)
+<br /> 
+# Social Media Accounts and Platform Links 
+
+[LinkedIn](https://www.linkedin.com/in/trent-cubine-268539110/)  [Try Hack Me](https://tryhackme.com/p/2EZ)
+
+<br />
 
 # Projects
 
