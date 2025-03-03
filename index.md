@@ -39,7 +39,7 @@ Explore my work and feel free to reach out to discuss how my expertise can help 
 
 <br />
 
-![Branching](https://github.com/2EZ2break/CyberSecPortfolio.io/blob/e0f558d0909e43be51a153470c0fa4f9e905f731/Azure%20Image.png)
+![Branching](https://github.com/2EZ2break/CyberSecPortfolio.io/blob/d8fc8eae3d521903633b8be5cefb49a69afc0c37/Azure%20New%20Image.jpg)
 
 <br /> 
 
