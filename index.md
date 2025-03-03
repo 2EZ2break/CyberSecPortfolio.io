@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# About ME 
+# About Me  
 
 Welcome to my cyber security portfolio website! I am Trent Cubine, a driven professional with a strong foundation in both web development and cyber security. With a background in web technologies, network security, and threat analysis, I specialize in building secure systems and conducting detailed security analyses.
 
@@ -23,7 +23,7 @@ Explore my work and feel free to reach out to discuss how my expertise can help 
 
 # Social Media Accounts and Platform Links 
 
-[LinkedIn](https://www.linkedin.com/in/trent-cubine-268539110/)  [Try Hack Me](https://tryhackme.com/p/2EZ)
+[LinkedIn](https://www.linkedin.com/in/trent-cubine-268539110/)  [Try Hack Me](https://tryhackme.com/p/2EZ) [Code Wars](https://www.codewars.com/users/2EZ)
 
 <br />
 
