@@ -39,7 +39,7 @@ Explore my work and feel free to reach out to discuss how my expertise can help 
 
 <br />
 
-![Branching](Azure Image.png)
+![Branching](https://github.com/2EZ2break/CyberSecPortfolio.io/blob/e0f558d0909e43be51a153470c0fa4f9e905f731/Azure%20Image.png)
 
 <br /> 
 
@@ -53,7 +53,7 @@ In this project I created a SIEM system in Microsoft Azure by leveraging Microso
 <br /> 
 <br /> 
 
-![Branching](Cisco packet Tracer.jpg)
+![Branching](https://github.com/2EZ2break/CyberSecPortfolio.io/blob/e0f558d0909e43be51a153470c0fa4f9e905f731/Cisco%20packet%20Tracer.jpg)
 
 <br /> 
 
@@ -67,7 +67,7 @@ I keep a repository of Cisco Packet Tracer Projects I've compleated. Each Projec
 <br /> 
 <br /> 
 
-![Branching](Python Image.png)
+![Branching](https://github.com/2EZ2break/CyberSecPortfolio.io/blob/5b42359ba8aec9d42bbf61a569c5a9784f4d677a/Python%20Image.png)
 
 <br /> 
 
