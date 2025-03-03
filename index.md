@@ -15,7 +15,9 @@ In my portfolio, you'll find several projects that showcase my skills in securit
 Explore my work and feel free to reach out to discuss how my expertise can help enhance your organization’s security posture.
 
 <br /> 
+
 ![Branching](0_3.png)
+
 <br /> 
 # Social Media Accounts and Platform Links 
 
