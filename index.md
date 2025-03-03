@@ -39,7 +39,7 @@ Explore my work and feel free to reach out to discuss how my expertise can help 
 
 <br />
 
-![Branching](Azure New Image.jpg)
+![Branching](Azure_New_Image.jpg)
 
 <br /> 
 
@@ -53,7 +53,7 @@ In this project I created a SIEM system in Microsoft Azure by leveraging Microso
 <br /> 
 <br /> 
 
-![Branching](Cisco packet Tracer.jpg)
+![Branching](Cisco_packet_Tracer.jpg)
 
 <br /> 
 
@@ -67,7 +67,7 @@ I keep a repository of Cisco Packet Tracer Projects I've compleated. Each Projec
 <br /> 
 <br /> 
 
-![Branching](Python Image.png)
+![Branching](Python_Image.png)
 
 <br /> 
 
