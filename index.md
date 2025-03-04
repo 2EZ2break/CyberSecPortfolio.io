@@ -47,7 +47,9 @@ Explore my work and feel free to reach out to discuss how my expertise can help 
 
 In this project I created a SIEM system in Microsoft Azure by leveraging Microsoft Sentinel. I launched a VM and created a log analytics workspace where I enabled Microsoft Sentinel. I then connected the VM as a data source and created analytic rules to flag specific instances from the VMs logs. 
 
+
 [You can see my documentation of this project here](Building my own SIEM v3.pdf)
+
 
 
 <br /> 
