@@ -8,7 +8,7 @@ Welcome to my cyber security portfolio website! I am Trent Cubine, a driven prof
 
 I have hands-on experience in developing and maintaining secure web environments, most recently as a Digital Producer at Belk, where I worked on e-commerce platforms and digital marketing initiatives. Additionally, my role as a Jr. Web Developer at Mission Wired involved building secure donation websites for clients, optimizing performance, and executing impactful email campaigns.
 
-I am continuously expanding my skills in cyber security through my academic background, including a BA in Mass Communication with a minor in Computer Science, as well as certifications like Google’s Cyber Security Specialization and CompTIA Security+ (currently in progress).
+I am continuously expanding my skills in cyber security through my academic background, including a BA in Mass Communication with a minor in Computer Science, as well as certifications like Google’s Cyber Security Specialization and CompTIA Security+.
 
 In my portfolio, you'll find several projects that showcase my skills in security, such as deploying my own SIEM system using Microsoft Azure and developing a Python-based Wi-Fi sniffer tool for network security analysis.
 
@@ -30,7 +30,7 @@ Explore my work and feel free to reach out to discuss how my expertise can help 
 # Certifications 
 
 1. Google Cybersecurity Specialization - 2025
-2. Comptia SEC+ - In Progress testing March 11th, 2025
+2. Comptia SEC+ - March 2025 
 
 <br /> 
 
