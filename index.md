@@ -4,7 +4,7 @@
 </head>
 
 
-<body>
+
 
   
 # About Me  
@@ -121,4 +121,3 @@ Video Games - Crypto Currency - College Football - Formula 1 - Youtube - Twitch
 <script src="carouselScript.js"></script>
 
 
-</body>
