@@ -1,11 +1,7 @@
+
 <head> 
 <link rel="stylesheet" href="carouselStyle.css">
 </head>
-
-
----
-layout: default
----
 
 # About Me  
 
