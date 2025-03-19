@@ -3,6 +3,10 @@
 <link rel="stylesheet" href="carouselStyle.css">
 </head>
 
+
+<body>
+
+  
 # About Me  
 
 Welcome to my cyber security portfolio website! I am Trent Cubine, a driven professional with a strong foundation in both web development and cyber security. With a background in web technologies, network security, and threat analysis, I specialize in building secure systems and conducting detailed security analyses.
@@ -115,3 +119,6 @@ Video Games - Crypto Currency - College Football - Formula 1 - Youtube - Twitch
 <br /> 
 
 <script src="carouselScript.js"></script>
+
+
+</body>
