@@ -118,29 +118,34 @@ Video Games - Crypto Currency - College Football - Formula 1 - Youtube - Twitch
 <br /> 
 
 <script>
-  let slideIndex = 0;
+ let slideIndex = 0;
 
-  function moveSlide(step) {
-    console.log("Button clicked!"); // Debugging
-    let slides = document.querySelectorAll(".carousel-images img");
-    slideIndex += step;
+function moveSlide(step) {
+  let slides = document.querySelectorAll(".carousel-images img");
+  slideIndex += step;
 
-    if (slideIndex < 0) {
-      slideIndex = slides.length - 1;  // Go to the last slide
-    } else if (slideIndex >= slides.length) {
-      slideIndex = 0;  // Go back to the first slide
-    }
-
-    // Hide all slides and display the current one
-    slides.forEach((slide, index) => {
-      slide.style.display = (index === slideIndex) ? "block" : "none";
-    });
+  if (slideIndex < 0) {
+    slideIndex = slides.length - 1;  // Go to the last slide
+  } else if (slideIndex >= slides.length) {
+    slideIndex = 0;  // Go back to the first slide
   }
 
-  document.addEventListener('DOMContentLoaded', () => {
-    console.log("DOM fully loaded");  // Debugging
-    moveSlide(0); // Show the first slide
+  // Hide all slides and display the current one
+  slides.forEach((slide, index) => {
+    if (index === slideIndex) {
+      slide.style.visibility = "visible"; // Make the current slide visible
+      slide.style.opacity = 1; // Fade in the current slide
+    } else {
+      slide.style.visibility = "hidden"; // Hide the other slides
+      slide.style.opacity = 0; // Fade them out
+    }
   });
+}
+
+// Initialize carousel by showing the first image
+document.addEventListener('DOMContentLoaded', () => {
+  moveSlide(0); // Show the first slide
+});
 </script>
 
 
