@@ -1,24 +1,29 @@
-#certification-carousel {
+.carousel {
   position: relative;
-  width: 80%;
+  width: 100%; /* Adjust based on your layout */
+  max-width: 600px; /* Adjust based on your preferred size */
   margin: auto;
-  overflow: hidden;
 }
 
 .carousel-images {
   display: flex;
-  transition: transform 0.5s ease;
+  overflow: hidden;
 }
 
 .carousel-images img {
-  width: 100%;
-  height: auto;
+  width: 100%; /* Adjust this for your desired image size */
+  display: none;
 }
 
-button {
+.carousel-images img:first-child {
+  display: block;
+}
+
+.prev, .next {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
+  font-size: 18px;
   background-color: rgba(0, 0, 0, 0.5);
   color: white;
   border: none;
