@@ -8,6 +8,7 @@
 }
 
 .carousel-images {
+  position: relative; /* This allows absolute positioning of images */
   display: flex;
   overflow: hidden;
   height: 100%; /* Ensure the container takes up the full height */
@@ -17,11 +18,15 @@
   width: 100%; /* Ensure the image fills the width */
   height: 100%; /* Set the height to 100% to maintain the carousel's fixed height */
   object-fit: cover; /* Ensures the image covers the area without distortion */
-  display: none;
+  position: absolute; /* Stack images on top of each other */
+  visibility: hidden; /* Hide the images initially */
+  opacity: 0; /* Make images invisible */
+  transition: opacity 0.5s ease-in-out; /* Smooth fade transition */
 }
 
 .carousel-images img:first-child {
-  display: block;
+  visibility: visible;
+  opacity: 1; /* Show the first image */
 }
 
 .prev, .next {
