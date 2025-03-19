@@ -43,8 +43,8 @@ Explore my work and feel free to reach out to discuss how my expertise can help 
 
 <div id="certification-carousel" class="carousel">
   <div class="carousel-images">
-    <img src="CompTIASecPlus.jpg" alt="Comptia Security Plus" style="display: block;" />
-    <img src="GoogleCyberSecurityCertificate.jpeg" alt="Google Cyber Security Certification" style="display: none;" />
+    <img src="CompTIASecPlus.jpg" alt="Comptia Security Plus" />
+    <img src="GoogleCyberSecurityCertificate.jpeg" alt="Google Cyber Security Certification" />
   </div>
   <button class="prev" onclick="moveSlide(-1)">&#10094;</button>
   <button class="next" onclick="moveSlide(1)">&#10095;</button>
@@ -119,7 +119,7 @@ Video Games - Crypto Currency - College Football - Formula 1 - Youtube - Twitch
 
 
 <script>
- let slideIndex = 0;
+let slideIndex = 0;
 
 function moveSlide(step) {
   let slides = document.querySelectorAll(".carousel-images img");
