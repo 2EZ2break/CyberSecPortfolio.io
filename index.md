@@ -53,7 +53,6 @@ Explore my work and feel free to reach out to discuss how my expertise can help 
 
 
 <br /> 
-<br /> 
 
 
 # Projects
