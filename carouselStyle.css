@@ -19,9 +19,9 @@
   height: 100%; /* Set the height to 100% to maintain the carousel's fixed height */
   object-fit: cover; /* Ensures the image covers the area without distortion */
   position: absolute; /* Stack images on top of each other */
-  visibility: hidden; /* Hide the images initially */
-  opacity: 0; /* Make images invisible */
-  transition: opacity 0.5s ease-in-out; /* Smooth fade transition */
+  visibility: hidden; /* Initially hide the images */
+  opacity: 0; /* Make images fully transparent initially */
+  transition: opacity 0.5s ease-in-out, visibility 0s 0.5s; /* Smooth transition for opacity and visibility */
 }
 
 .carousel-images img:first-child {
