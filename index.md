@@ -36,6 +36,22 @@ Explore my work and feel free to reach out to discuss how my expertise can help 
 <br /> 
 
 
+
+<div id="certification-carousel" class="carousel">
+  <div class="carousel-images">
+    <img src="COMPTIASECPLUS.pdf" alt="Comptia Security Plus" />
+    <img src="GoogleCyberSecurityCertificate.jpeg" alt="Google Cyber Security Certification" />
+  </div>
+  <button class="prev" onclick="moveSlide(-1)">&#10094;</button>
+  <button class="next" onclick="moveSlide(1)">&#10095;</button>
+</div>
+
+
+
+<br /> 
+
+
+
 # Projects
 
 <br />
