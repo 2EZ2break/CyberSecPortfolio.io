@@ -1,5 +1,5 @@
 <head> 
-<link rel="stylesheet" href="">
+<link rel="stylesheet" href="carouselStyle.css">
 </head>
 
 
@@ -214,4 +214,4 @@ The final element.
 -->
 
 
-<script src=""></script>
+<script src="carouselScript.js"></script>
