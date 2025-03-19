@@ -3,15 +3,20 @@
   width: 100%; /* Adjust based on your layout */
   max-width: 600px; /* Adjust based on your preferred size */
   margin: auto;
+  height: 400px; /* Fixed height for the carousel */
+  overflow: hidden;
 }
 
 .carousel-images {
   display: flex;
   overflow: hidden;
+  height: 100%; /* Ensure the container takes up the full height */
 }
 
 .carousel-images img {
-  width: 100%; /* Adjust this for your desired image size */
+  width: 100%; /* Ensure the image fills the width */
+  height: 100%; /* Set the height to 100% to maintain the carousel's fixed height */
+  object-fit: cover; /* Ensures the image covers the area without distortion */
   display: none;
 }
 
