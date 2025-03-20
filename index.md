@@ -34,8 +34,8 @@ Explore my work and feel free to reach out to discuss how my expertise can help 
 
 # Certifications 
 
-1. Google Cybersecurity Specialization - 2025
-2. Comptia SEC+ - March 2025 
+1. Google Cybersecurity Specialization
+2. Comptia Security+ 
 
 <br /> 
 
