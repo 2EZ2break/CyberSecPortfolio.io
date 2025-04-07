@@ -106,7 +106,7 @@ I am currently ranked within the top 200,000 users on the TryHackMe platform, ha
 
 ### Various Python Projects
 
-I maintain a repository of Python scripts focused on cybersecurity and penetration testing. One notable script, wifiSniffer.py, scans Wi-Fi networks within range of a Windows device, extracting key details like signal strength, encryption protocols, and authentication methods. Other scripts like SimplePasswordBruteForce.py demonstrate basic brute-force attack algorithms, while PortScanner.py enumerates a machines ports. For more information on additional scripts, check the ReadMe.txt file in the repository.
+I maintain a repository of Python scripts focused on cybersecurity and penetration testing. One notable script, EtcEnumerator.py, enumerates key configuration files within the /etc/ directory of a Linux system. It checks files such as /etc/passwd, /etc/os-release, /etc/hostname, and others to gather system information. Other scripts like SimplePasswordBruteForce.py demonstrate basic brute-force attack algorithms, while PortScanner.py enumerates a machines ports. For more information on additional scripts, check the ReadMe.txt file in the repository.
 
 [Click here to visit the Repository.](https://github.com/2EZ2break/python-Projects)
 
