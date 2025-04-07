@@ -93,6 +93,17 @@ I keep a repository of Cisco Packet Tracer Projects I've compleated. Each Projec
 
 <br /> 
 
+### TryHackMe Progress 
+
+I am currently ranked within the top 200,000 users on the TryHackMe platform, having completed over 33 rooms covering a wide range of cybersecurity topics. This hands-on lab experience has been a critical part of my learning journey, allowing me to develop practical skills in areas such as network security, vulnerability assessment, incident response, and security operations. Each room has helped strengthen my technical knowledge and problem-solving abilities while exposing me to real-world scenarios and tools commonly used by cybersecurity professionals. 
+
+
+<br /> 
+
+![Branching](Python_Image.png)
+
+<br /> 
+
 ### Various Python Projects
 
 I maintain a repository of Python scripts focused on cybersecurity and penetration testing. One notable script, wifiSniffer.py, scans Wi-Fi networks within range of a Windows device, extracting key details like signal strength, encryption protocols, and authentication methods. Other scripts like SimplePasswordBruteForce.py demonstrate basic brute-force attack algorithms, while PortScanner.py enumerates a machines ports. For more information on additional scripts, check the ReadMe.txt file in the repository.
@@ -106,14 +117,14 @@ I maintain a repository of Python scripts focused on cybersecurity and penetrati
 
 # Cyber Content I Love
 
-Darknet Diaries - Mad Hat - Sam Bent - Pirate Software - Mental Outlaw - DEFCONconference
+Darknet Diaries - Sam Bent - Pirate Software - Mental Outlaw - DEFCONconference
 
 <br /> 
 <br /> 
 
 # Hobbies
 
-Video Games - Crypto Currency - College Football - Formula 1 - Youtube - Chess
+Video Games - College Football - Formula 1 - Youtube - Chess
 
 <br /> 
 
