@@ -45,6 +45,7 @@ Explore my work and feel free to reach out to discuss how my expertise can help 
   <div class="carousel-images">
     <img src="CompTIASecPlus.jpg" alt="Comptia Security Plus" />
     <img src="GoogleCyberSecurityCertificate.jpeg" alt="Google Cyber Security Certification" />
+    <img src="GoogleCyberSecurityCertificate.jpeg" alt="Google Cyber Security Certification" />
   </div>
   <button class="prev" onclick="moveSlide(-1)">&#10094;</button>
   <button class="next" onclick="moveSlide(1)">&#10095;</button>
