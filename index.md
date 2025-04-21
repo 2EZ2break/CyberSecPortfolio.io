@@ -35,7 +35,8 @@ Explore my work and feel free to reach out to discuss how my expertise can help 
 # Certifications 
 
 1. Google Cybersecurity Specialization
-2. CompTIA Security+ 
+2. CompTIA Security+
+3. TryHackMe Cyber Security 101 Path 
 
 <br /> 
 
