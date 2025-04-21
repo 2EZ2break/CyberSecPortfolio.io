@@ -97,7 +97,7 @@ I keep a repository of Cisco Packet Tracer Projects I've compleated. Each Projec
 
 ### TryHackMe Progress 
 
-I am currently ranked within the top 200,000 users on the TryHackMe platform, having completed over 33 rooms covering a wide range of cybersecurity topics. This hands-on lab experience has been a critical part of my learning journey, allowing me to develop practical skills in areas such as network security, vulnerability assessment, incident response, and security operations. Each room has helped strengthen my technical knowledge and problem-solving abilities while exposing me to real-world scenarios and tools commonly used by cybersecurity professionals. 
+I am currently ranked within the top 10% of users on the TryHackMe platform. This hands-on lab experience has been a critical part of my learning journey, allowing me to develop practical skills in areas such as network security, vulnerability assessment, incident response, and security operations. Each room has helped strengthen my technical knowledge and problem-solving abilities while exposing me to real-world scenarios and tools commonly used by cybersecurity professionals. 
 
 
 <br /> 
@@ -106,9 +106,9 @@ I am currently ranked within the top 200,000 users on the TryHackMe platform, ha
 
 <br /> 
 
-### Various Python Projects
+### Python Projects
 
-I maintain a repository of Python scripts focused on cybersecurity and penetration testing. One notable script, EtcEnumerator.py, enumerates key configuration files within the /etc/ directory of a Linux system. It checks files such as /etc/passwd, /etc/os-release, /etc/hostname, and others to gather system information. Other scripts like SimplePasswordBruteForce.py demonstrate basic brute-force attack algorithms, while PortScanner.py enumerates a machines ports. For more information on additional scripts, check the ReadMe.txt file in the repository.
+maintain a GitHub repository of Python scripts focused on cybersecurity and penetration testing. One featured script, EtcEnumerator.py, automates the enumeration of critical system configuration files in the /etc/ directory (e.g., /etc/passwd, /etc/os-release, /etc/hostname) to extract valuable system information. More of my projects are available on my GitHub. 
 
 [Click here to visit the Repository.](https://github.com/2EZ2break/python-Projects)
 
