@@ -9,16 +9,15 @@
   
 # About Me  
 
-Welcome to my cyber security portfolio website! I am Trent Cubine, a driven professional with a strong foundation in both web development and cyber security. With a background in web technologies, network security, and threat analysis, I specialize in building secure systems and conducting detailed security analyses.
+I'm Trent Cubine, a versatile and motivated professional with a strong foundation in digital production, web development, and technology. With hands-on experience in fast-paced environments, I bring a unique blend of creativity, technical know-how, and problem-solving to every project I take on.
 
-I have hands-on experience in developing and maintaining secure web environments, most recently as a Digital Producer at Belk, where I worked on e-commerce platforms and digital marketing initiatives. Additionally, my role as a Jr. Web Developer at Mission Wired involved building secure donation websites for clients, optimizing performance, and executing impactful email campaigns.
+My background includes work as a Digital Producer at Belk, where I supported e-commerce operations and helped coordinate digital marketing initiatives across multiple platforms. I also served as a Jr. Web Developer at Mission Wired, contributing to the development of client-facing websites, optimizing user experiences, and executing high-impact email campaigns.
 
-I am continuously expanding my skills in cyber security through my academic background, including a BA in Mass Communication with a minor in Computer Science, as well as certifications like Google’s Cyber Security Specialization and CompTIA Security+.
+Whether it's launching digital content, building clean and responsive web pages, collaborating across departments, or troubleshooting technical issues, I thrive at the intersection of strategy, design, and execution.
 
-In my portfolio, you'll find several projects that showcase my skills in security, such as deploying my own SIEM system using Microsoft Azure and developing a Python-based Wi-Fi sniffer tool for network security analysis.
+In this portfolio, you’ll find projects that reflect my adaptability and technical skills—from crafting web experiences to analyzing digital systems. I’m always learning, growing, and eager to contribute to innovative teams that value collaboration and continuous improvement.
 
-Explore my work and feel free to reach out to discuss how my expertise can help enhance your organization’s security posture.
-
+Feel free to explore my work and reach out—I'd love to connect and discuss how I can help move your next project forward.
 <br /> 
 
 ![Branching](0_3.png)
